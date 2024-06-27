@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\LAPES357\Google Drive\Altium\Projetos\DAS_ad7606\DAS_ad7606\DAS_ad7606.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84

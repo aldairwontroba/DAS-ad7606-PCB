@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [Boost 24V_NO_COM_LDO] of PCB Document [DAS_ad7606.PcbDoc]
+   Generated File[DAS_ad7606.GTL]
+   Generated File[DAS_ad7606.GBL]
+   Generated File[DAS_ad7606.GTO]
+   Generated File[DAS_ad7606.GTP]
+   Generated File[DAS_ad7606.GTS]
+   Generated File[DAS_ad7606.GBS]
+   Generated File[DAS_ad7606.GBP]
+   Generated File[DAS_ad7606.GBO]
+   Generated File[DAS_ad7606.GM1]
+   Generated File[DAS_ad7606.RUL]
+   Generated File[DAS_ad7606.EXTREP]
+   Generated File[DAS_ad7606.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 16:28:44 On 10/07/2019
